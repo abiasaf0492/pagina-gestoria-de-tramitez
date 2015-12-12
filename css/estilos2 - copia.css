@@ -1,0 +1,52 @@
+*{
+margin:0;
+padding:0;
+}
+
+	 
+
+.titulos{
+	padding: 80px ;
+}
+.redes{
+
+	position:fixed;
+	left:0;
+	top:200px;
+	z-index:1000;
+}
+.redes ul{
+	list-style: none;
+
+}
+.redes ul li a {
+	position:relative;
+	
+	left:0px;
+	display:inline-block;
+	color:#fff;
+	padding:10px 15px;
+	text-decoration: none;
+}
+.icon-facebook{
+	background:	#448AFF;
+}
+
+.icon-twitter{
+	background:	#00BFFF;
+}
+
+.icon-phone{
+	background:#4CAF50;
+}
+.icon-email{
+	background:#000000;
+}
+
+.icon-location{
+	background:#FF5722;	
+}
+.redes ul li a:hover{
+	padding :10px 30px;
+	background:#2c3e50;
+}

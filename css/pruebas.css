@@ -1,0 +1,91 @@
+.pie{
+	background-position:bottom;
+	background-size: 50px 50px 50px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+codigo de index-copia antes de quitarle el contenido al article
+
+
+.titulos{
+	
+background:#8BC34A;
+}
+.cajauno	.cajados	.cajatres	.cajacuatro	{
+	float:left;
+	width:25%;	
+	border:solid;
+	border-color: #00BFFF;
+
+}
+*/
+/*.cajauno{
+	position:relative	;
+	width:25%;
+	top:;
+	bottom:;
+	right: ;
+	left:;
+	border:solid;
+	border-color: #00BFFF;
+	
+
+
+
+background:#FF4081;
+}
+.cajados{
+	position:relative;
+	width:25%;
+	top:;
+	bottom:50px;
+	right: ;
+	left:25%;
+	border:solid;
+	border-color: #00BFFF;
+
+
+background:#4CAF50;
+}
+.cajatres{
+	position:relative	;
+	width:25%;
+	top:;
+	bottom:;
+	right: ;
+	left:50%;
+	border:solid;
+	border-color: #00BFFF;
+
+background:#536DFE;	
+
+}
+.cajacuatro{
+	position:absolute	;
+	width:25%;
+	top:;
+	bottom:;
+	right: ;
+	left:75%;
+	border:solid;
+	border-color: #00BFFF;
+
+
+	background:red;
+	
+}
+*/
